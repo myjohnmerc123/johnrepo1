@@ -1,1 +1,5 @@
+<<<<<<< HEAD
 this is local version
+=======
+this is web version of new file.
+>>>>>>> 4794f3506505c7a469a477a2fdc1275bed2d00e5
